@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "latestRelease": "3.4",
+    "latestBeta": "3.5b",
+    "versions": [
+        {
+            "version": "3.4",
+            "releaseDate": "January, 2023",
+            "releaseNotes": ""
+        },
+        {
+            "version": "3.5b",
+            "releaseDate": "none",
+            "releaseNotes": ""
+        }
+    ]   
+}
